@@ -61,10 +61,7 @@
       console.log(chalk.gray("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"));
 
       console.log(
-        chalk.whiteBright("Baileys ini ") +
-        chalk.redBright("tidak mendukung") +
-        chalk.whiteBright(" Node.js versi di bawah ") +
-        chalk.yellowBright("v20") +
+        chalk.whiteBright("MODE HARUS DI ATAS 20+") +
         chalk.whiteBright(".")
       );
 
