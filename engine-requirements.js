@@ -71,8 +71,8 @@
       );
 
       console.log(
-        chalk.whiteBright("Tolong update Node.js minimal ke: ") +
-        chalk.greenBright("v20 atau di atasnya.")
+        chalk.whiteBright("Node.js Minimal Maksimal Harus Di: ") +
+        chalk.greenBright("20 atau di atasnya.")
       );
 
       console.log(chalk.gray("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"));
